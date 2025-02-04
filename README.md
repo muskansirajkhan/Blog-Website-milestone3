@@ -32,8 +32,3 @@ The project will be available at `http://localhost:3000/`.
 - Navigate through the blog categories
 - Click on a blog card to read full content
 - Responsive and mobile-friendly design
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-s
